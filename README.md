@@ -1,2 +1,0 @@
-# datasciencecoursera
-touch README.rdoc
